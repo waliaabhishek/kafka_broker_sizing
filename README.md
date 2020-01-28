@@ -4,6 +4,7 @@ It takes into account multiple requirements froma Kafka cluster perspective:
 
 * Network Ingress and Egress requirement
 * Disk throughput speeds
+* Disk capacity requirements
 * Replication factor requirements
 * Recommended broker soft limits
 
